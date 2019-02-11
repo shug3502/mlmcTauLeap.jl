@@ -1,0 +1,10 @@
+name = "mlmcTauLeap"
+uuid = "3f5d3476-2c51-11e9-0748-f74a03458c90"
+authors = ["Jonathan Harrison <jonathan.u.harrison@warwick.ac.uk>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
